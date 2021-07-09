@@ -38,7 +38,9 @@ body {
 img {
   max-width: 100%;
 }
-
+a.navbar-brand img {
+  width: 150px;
+}
 a:focus,
 input:focus,
 textarea:focus,
